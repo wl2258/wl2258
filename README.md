@@ -20,6 +20,3 @@
 <a><img src="https://img.shields.io/badge/AwsRDS-527FFF?style=flat-square&logo=awsrds&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/AwsS3-569A31?style=flat-square&logo=awss3&logoColor=white"/></a>
 </p>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wl2258&show_icons=true&theme=buefy)
