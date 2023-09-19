@@ -4,7 +4,9 @@
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
-<p align="center"><a href="https://velog.io/@ssonzm/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@ssonzm/"/></a>  <a href="mailto:thswlals2258@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thswlals2258@gmail.com"/></a></p>
+<p align="center"><a href="https://ssonzm.tistory.com/"><img src="https://img.shields.io/badge/My tech blog(NEW)-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://ssonzm.tistory.com/"/></a>  
+<p align="center"><a href="https://velog.io/@ssonzm/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@ssonzm/"/></a>  
+ <a href="mailto:thswlals2258@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thswlals2258@gmail.com"/></a></p>
 
 <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
 <p align="center">
