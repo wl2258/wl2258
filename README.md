@@ -1,24 +1,31 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
-
-<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
-
-<p align="center"><a href="https://ssonzm.tistory.com/"><img src="https://img.shields.io/badge/My tech blog(NEW)-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://ssonzm.tistory.com/"/></a>  
-<p align="center"><a href="https://velog.io/@ssonzm/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@ssonzm/"/></a>  
- <a href="mailto:thswlals2258@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thswlals2258@gmail.com"/></a></p>
-
-<h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
-<p align="center">
-<a><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</br>
-<a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=aws&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/AwsRDS-527FFF?style=flat-square&logo=awsrds&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/AwsS3-569A31?style=flat-square&logo=awss3&logoColor=white"/></a>
+<p>
+&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com" >
+&nbsp; <a href="https://ssonzm.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://ssonzm.tistory.com/"/></a>
 </p>
+
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jimin.+%E3%80%80%E3%80%80" alt="Typing SVG">
+</p>
+
+
+<p align="center">
+&nbsp; <a href="mailto:wl2258@naver.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/ssonzm/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+</p>
+
+<div class="row2" style="display: flex; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wl2258&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=50% />
+  </a>
+  <a href="https://git.io/streak-stats" style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=wl2258&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D" width=48% alt="GitHub Streak" />
+  </a>
+</div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wl2258&theme=rogue&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+<br><br>
+
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=wl2258)](https://solved.ac/wl2258)
